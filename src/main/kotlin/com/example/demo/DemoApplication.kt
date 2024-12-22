@@ -1,4 +1,5 @@
-package com.example.demo
+// DemoApplication.kt
+package demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
